@@ -39,7 +39,7 @@ print(scrapper.images)
 1. Клонируем папку с проектом(репозиторий можно форкнуть к себе):
 
 ```bash
-git clone <адрес репозитория>
+git clone git@github.com:thrashches/classes_example.git
 ```
 
 2. Перемещаемся в эту папку с помощью PowerShell:
