@@ -14,7 +14,6 @@ class Scrapper(object):
     __title = None
     __images = []
 
-
     def __init__(self, url):
         # Метод-конструктор класса
         # url - адрес веб страницы, которую мы загружаем
